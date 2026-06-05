@@ -1,0 +1,20 @@
+
+Resume Analysis Report
+
+Role: AI Engineer
+
+Match Score: 30.0%
+
+Matched Skills:
+machine learning
+ml
+python
+
+Missing Skills:
+generative ai
+llm
+scala
+ai/ml
+azure
+computer vision
+deep learning

@@ -1,0 +1,29 @@
+{
+    "Machine Learning Engineer": "Build, train, deploy and optimize machine learning models for real-world applications.",
+
+    "AI Engineer": "Develop AI-powered systems using machine learning, deep learning and generative AI technologies.",
+
+    "Data Engineer": "Design and maintain data pipelines, databases and large-scale data processing systems.",
+
+    "Data Scientist": "Analyze complex datasets, build predictive models and generate data-driven insights.",
+
+    "Data Analyst": "Clean, analyze and visualize data to support business decisions and reporting.",
+
+    "Analytics Engineer": "Bridge data engineering and analytics by transforming raw data into reliable business datasets.",
+
+    "Backend Developer": "Develop server-side applications, APIs and databases that power web and software systems.",
+
+    "Mlops Engineer": "Deploy, monitor and maintain machine learning models and infrastructure in production environments.",
+
+    "Python Developer": "Build software applications, automation scripts and backend systems using Python.",
+
+    "Business Analyst": "Analyze business requirements, identify problems and recommend data-driven solutions.",
+
+    "Bi Analyst": "Create dashboards, reports and business intelligence solutions to support decision-making.",
+
+    "Computer Vision Engineer": "Develop image processing and computer vision systems for object detection, recognition and analysis.",
+
+    "Software Engineer": "Design, develop, test and maintain software applications and systems.",
+
+    "Nlp Engineer": "Build natural language processing systems for text analysis, chatbots and language understanding."
+}
